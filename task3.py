@@ -10,3 +10,9 @@ money = [1000, 1200, 800, 1500, 1100]
 
 → Perform the corrections and computations, and print all results.
 """
+money = [1000, 1200, 800, 1500, 1100]
+ total = sum = money
+print(total)
+money[2]=1000
+print(money)
+print(money[::-1])
